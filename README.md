@@ -1,18 +1,19 @@
 # 🚀 texas
 ## ⚙️ System Design
 
+<p align="center">
 <img width="502" height="799" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/d86a8b56-dffd-4aa1-b5b8-c14c4ef3e994" />
-
+</p>
 
 ## 📌 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3b47bdb9-68bc-4d3c-bb8e-6e602e0a1e29" width="250" />
-  <img src="https://github.com/user-attachments/assets/3ccccb72-043c-4025-8d7a-4e9e2f83f429" width="250" />
-  <img src="https://github.com/user-attachments/assets/96372463-a55a-4ffb-b365-3f31a4247e9e" width="250" />
   <img src="https://github.com/user-attachments/assets/aedfdb81-713a-40a1-bb3f-af642dddabc1" width="250" />
-  <img src="https://github.com/user-attachments/assets/82ac3e35-3f77-4a08-b319-754da62869e6" width="250" />
+  <img src="https://github.com/user-attachments/assets/96372463-a55a-4ffb-b365-3f31a4247e9e" width="250" />
+  <img src="https://github.com/user-attachments/assets/3ccccb72-043c-4025-8d7a-4e9e2f83f429" width="250" />
   <img src="https://github.com/user-attachments/assets/4f79d931-4119-4d99-bb25-e03e6698f8a0" width="250" />
+  <img src="https://github.com/user-attachments/assets/3b47bdb9-68bc-4d3c-bb8e-6e602e0a1e29" width="250" />
+  <img src="https://github.com/user-attachments/assets/82ac3e35-3f77-4a08-b319-754da62869e6" width="250" />
 </p>
 
 
